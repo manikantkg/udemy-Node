@@ -14,7 +14,7 @@ console.log("writesync file done!!!!") */
 
 //Asynchronous code or non-blocking code
 
-fs.readFile('./text/startt.txt', 'utf-8', (err, data1) => {
+fs.readFile('./text/start.txt', 'utf-8', (err, data1) => {
     if (err) return console.log('Errror 🤔🤔🤔🤔')
     console.log(data1);
     fs.readFile(`./text/${data1}.txt`, 'utf-8', (err, data2) => {
