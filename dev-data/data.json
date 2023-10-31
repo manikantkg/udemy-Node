@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Manikanta",
+        "age":33,
+        "location":"hyderabad"
+    },
+    {
+        "id":2,
+        "name":"Anusha",
+        "age":23,
+        "location":"hyderabad"
+    },
+    {
+        "id":3,
+        "name":"Chinnodu",
+        "age":1,
+        "location":"hyderabad"
+    },
+    {
+        "id":4,
+        "name":"Sreeramulu",
+        "age":63,
+        "location":"hyderabad"
+    },
+    {
+        "id":5,
+        "name":"LakshmiDevi",
+        "age":60,
+        "location":"hyderabad"
+    }
+]
